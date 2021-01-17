@@ -376,5 +376,4 @@ menuItem1 = MenuItem(name="Lemon Curd Ice Cream Sandwich", description="Lemon Cu
 session.add(menuItem1)
 session.commit()
 
-
-print "added menu items!"
+print("added menu items!")
